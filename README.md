@@ -1,4 +1,4 @@
-# MercadoComunista
+# WebSite - Example
 
-## Dependencies libs
+Site responsivo de exemplo desenvolvido na materia de Desenvolvimento Mobile.
 
